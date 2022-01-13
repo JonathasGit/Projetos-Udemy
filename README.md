@@ -3,4 +3,7 @@
 
 3 projetos básicos da Udemy com o professor <a href="https://github.com/zCHICOz"> Chico </a>
 
-Repositório do Projeto : <a href ="https://github.com/zCHICOz/Curso-HTML-CSS-JS">3 projetos aqui</a>
+Repositório do Projeto : <a href ="https://github.com/zCHICOz/Curso-HTML-CSS-JS">3 projetos aqui</a><br>
+
+
+<p align="center">©️ 2022 - :octocat: JonathasGit</p>
